@@ -1,4 +1,4 @@
-# Netflix Clone 🎬
+![image](https://github.com/user-attachments/assets/5e67c1fa-6d68-499e-b0c8-578489466713)# Netflix Clone 🎬
 
 A simple Netflix homepage clone built using HTML and CSS.
 
@@ -12,7 +12,7 @@ A simple Netflix homepage clone built using HTML and CSS.
 - CSS3 (Flexbox & Grid)
 
 ## 📷 Preview
-![Netflix Clone](https://via.placeholder.com/800x400.png?text=Netflix+Clone+Preview)
+![Netflix Clone](https://manishupadhyay2004.github.io/Netflix-Clone-Using-HTML---CSS/)
 
 ## 📂 Folder Structure
 ```
